@@ -12,14 +12,8 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.license = { :type => 'HiepIT' }
   
-  s.dependency 'Alamofire', '5.0.0-rc.2'
+  s.dependency 'Alamofire', '5.0.0-rc.1'
 
   s.dependency 'Resolver', '~> 1.5.0'
   
-  s.dependency 'AgoraRtcEngine_iOS', '4.3.0'
-    
-  s.dependency 'Socket.IO-Client-Swift', '16.1.0'
-  
-  s.dependency 'KeychainAccess', '4.2.2'
-
 end
