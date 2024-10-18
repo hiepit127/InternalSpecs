@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = "Service"
   s.homepage = "https://github.com/hiepit127"
   s.authors = { "HiepIT" => "https://github.com/hiepit127" }
-  s.source = { :git => "https://github.com/hiepit127/SCService", :tag => s.version }
+  s.source = { :git => "https://github.com/hiepit127/SCService" }
 
   s.source_files = 'Sources/**/*.{swift}'
   
